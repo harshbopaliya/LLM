@@ -1,0 +1,17 @@
+
+zero shot learning :
+the capability of a ml model to complete task it was not explicitly trained to do.
+
+old way : supervised learning
+new way : self supervised learning
+
+in data in corpus form 
+
+example Listen to Your .... next word prediction "Heart"
+core task is AutoRegression Task :"predict next word"
+
+3 level of llm
+
+level 1: prompt engineering
+level2 : model fine tuning
+level3 : build your own

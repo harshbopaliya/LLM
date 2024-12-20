@@ -1,0 +1,24 @@
+api = way to interact remote application programmatically 
+
+openai api(python)
+send request and get response 
+request : "Listen to Your" , response : "heart"
+
+benefit :
+1) set context and system message
+2) adjust input parameters
+3)model fine tuning functionality
+
+token  = a set of words 
+
+"the end." -> (73,102,6)
+the -> 73 , end -> 102 , "." -> 6
+
+no of token price for openai api
+
+
+4 steps :
+1)make a account
+2)add payment method 
+3)usage limit 
+4)get secret key
