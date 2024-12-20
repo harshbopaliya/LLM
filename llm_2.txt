@@ -1,0 +1,19 @@
+hugging face transformers library
+
+
+hugging face : major hub open source ml 
+
+
+3 things 
+1)models 
+2)Datasets
+3)spaces
+
+
+transformers:
+python library that makes downloading and training ml models easy
+sentiment analysis :classification task 
+numerical to text 
+pipeline function -> task  
+summarization,....
+ 
